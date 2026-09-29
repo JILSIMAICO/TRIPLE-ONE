@@ -1,0 +1,11 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 4AA4-9F08
+
+ Pasta de C:\Users\JILSIMAICO\Documents\DESENVOLVIMENTO\triple-one-project\TRIPLE-ONE
+
+28/09/2026  17:06    <DIR>          .
+28/09/2026  17:06    <DIR>          ..
+28/09/2026  16:51    <DIR>          jilsimaico
+28/09/2026  17:06                 0 jilsimaico.txt
+               1 arquivo(s)              0 bytes
+               3 pasta(s)   255.809.155.072 bytes dispon°veis
